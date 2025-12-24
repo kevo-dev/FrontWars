@@ -1,0 +1,5 @@
+{
+  "name": "FrontWars Tactical Commander",
+  "description": "A real-time strategy territory defense game where you capture bases and manage troops against an AI-driven opponent powered by Gemini.",
+  "requestFramePermissions": []
+}
